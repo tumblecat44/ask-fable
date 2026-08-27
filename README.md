@@ -8,4 +8,4 @@ Ask local Claude Code Fable whether a proposal is overengineered.
 npx skills add tumblecat44/ask-fable
 ```
 
-Requires a local Claude Code installation with access to the `fable` model.
+Requires a local Claude Code installation with access to the `claude-fable-5` model.
